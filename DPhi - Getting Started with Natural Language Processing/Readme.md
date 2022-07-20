@@ -12,3 +12,5 @@ Bootcamp "Getting Started with Nautral Language Processing" from DPhi.
 ## Hand-on Practice
 
 - [Text Wrangling Examples](https://github.com/thunderstroke325/data-science-bootcamp/blob/main/DPhi%20-%20Getting%20Started%20with%20Natural%20Language%20Processing/01.%20Text%20Wrangling%20Examples.ipynb)
+- [Text Representation Statistical Models](https://github.com/thunderstroke325/data-science-bootcamp/blob/main/DPhi%20-%20Getting%20Started%20with%20Natural%20Language%20Processing/02_Text_Representation_Statistical_Models.ipynb)
+- [Text Representation Embedding Models](https://github.com/thunderstroke325/data-science-bootcamp/blob/main/DPhi%20-%20Getting%20Started%20with%20Natural%20Language%20Processing/03_Text_Representation_Embedding_Models.ipynb)
